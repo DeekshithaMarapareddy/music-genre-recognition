@@ -1,0 +1,18 @@
+# Dataset
+data/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+*.pkl
+*.png
+features.csv
+
+# OS files
+.DS_Store
+Thumbs.db
